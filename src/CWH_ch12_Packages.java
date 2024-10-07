@@ -19,5 +19,6 @@ public class CWH_ch12_Packages {
         System.out.println(a);
         System.out.println("done....");
 
+        System.out.println("package is used to group java class files and we can see it.");
     }
 }
