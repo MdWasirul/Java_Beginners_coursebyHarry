@@ -26,11 +26,11 @@ class myThreadRunnable2 implements Runnable{
 public class CWH_ch13_2 {
     public static void main(String[] args) {
 
-// myThreadRunnable1 t1= new myThreadRunnable1();
-// myThreadRunnable2 t2 =new myThreadRunnable2();
-// t1.start();
-// t2.start();
-  // when we implements Runnable interface  then we cannot directly run start() method.
+      // myThreadRunnable1 t1= new myThreadRunnable1();
+      // myThreadRunnable2 t2 =new myThreadRunnable2();
+      // t1.start();
+      // t2.start();
+     // when we implements Runnable interface  then we cannot directly run start() method.
 
 
         //---------------------------------------------------------
